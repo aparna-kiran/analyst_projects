@@ -1,9 +1,11 @@
 # analyst_projects
 
-This repository is a collection of my projects of data analysis. 
-The credit_card directory contains SQL code for the analyzes of credit card financial data such as 
-(a) Basic functions - Sorting and Cleansing
-(b) Grouping Data by Year and Quarter
-(c) Calculating Running Averages
-(d) Time Series Analysis.
+<p>This repository is a collection of my projects of data analysis.</p> 
+<p>The credit_card directory contains SQL code for the analyzes of credit card financial data such as </p> 
+<ul>
+  <li> Basic functions - Sorting and Cleansing </li>
+  <li> Grouping Data by Year and Quarter </li>
+  <li> Calculating Running Averages </li>
+  <li> Time Series Analysis </li>
+ </ul>
 <p> It is not complete yet. I am strengthening and improving my knowledge in SQL and will be updating it here. </p>
