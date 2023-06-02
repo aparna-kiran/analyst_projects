@@ -1,4 +1,4 @@
--- Analysing the credit card details of a credit card processing company 
+-- Creating and managing a database of credit card financial data for its analysis. 
 CREATE TABLE country(
     id int NOT NULL,
     country_name VARCHAR(255),
