@@ -41,4 +41,8 @@ CREATE TABLE card_transaction(
 );
 
 INSERT INTO country(id, country_name)
-VALUES (1, India)
+VALUES (1, 'United Kindgom')
+VALUES (2, 'India')
+VALUES (3, 'France')
+VALUES (4, 'Germany')
+VALUES (5, 'USA')
