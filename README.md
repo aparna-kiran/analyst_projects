@@ -8,4 +8,4 @@
   <li> Calculating Running Averages </li>
   <li> Time Series Analysis </li>
  </ul>
-<p> It is not complete yet; however, I am strengthening and improving my knowledge in SQL and will be updating it here. </p>
+<p> It is not complete yet; however, I will be updating it here as I am strengthening and improving my knowledge in SQL. </p>
