@@ -5,5 +5,5 @@ The credit_card directory contains SQL code for the analyzes of credit card fina
 (a) Basic functions - Sorting and Cleansing
 (b) Grouping Data by Year and Quarter
 (c) Calculating Running Averages
-(d) Time Series Analysis
-It is not complete yet. I am strengthening and improving my knowledge in SQL and will be updating it here. 
+(d) Time Series Analysis.
+<p> It is not complete yet. I am strengthening and improving my knowledge in SQL and will be updating it here. </p>
