@@ -1,4 +1,3 @@
--- Creating and managing a database of credit card financial data for its analysis. 
 CREATE TABLE country(
     id int NOT NULL,
     country_name VARCHAR(255),
@@ -39,22 +38,3 @@ CREATE TABLE card_transaction(
     PRIMARY KEY (id),
     FOREIGN KEY (card_number_id) REFERENCES card_number(id)
 );
-
-INSERT INTO country(id, country_name)
-VALUES (1, 'United Kindgom')
-VALUES (2, 'India')
-VALUES (3, 'France')
-VALUES (4, 'Germany')
-VALUES (5, 'USA')
-
-INSERT INTO card_type(id, card_type_name)
-VALUES (1, 'VISA')
-VALUES (2, 'MasterCard')
-VALUES (3, 'Rupay')
-
-INSERT INTO customer(id, country_name)
-VALUES (1, 'United Kindgom')
-VALUES (2, 'India')
-VALUES (3, 'France')
-VALUES (4, 'Germany')
-VALUES (5, 'USA')
