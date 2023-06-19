@@ -40,6 +40,11 @@ CREATE TABLE card_transaction(
     FOREIGN KEY (card_number_id) REFERENCES card_number(id)
 );
 
+SELECT 
+    *
+FROM 
+    customer; 
+
 INSERT INTO country(id, country_name)
 VALUES (1, 'United Kindgom')
 VALUES (2, 'India')
@@ -58,3 +63,4 @@ VALUES (2, 'India')
 VALUES (3, 'France')
 VALUES (4, 'Germany')
 VALUES (5, 'USA')
+

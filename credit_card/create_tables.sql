@@ -38,3 +38,7 @@ CREATE TABLE card_transaction(
     PRIMARY KEY (id),
     FOREIGN KEY (card_number_id) REFERENCES card_number(id)
 );
+
+ALTER TABLE card_number
+MODIFY COLUMN card_number BIGINT; --Changed the card_number's data type from integer to big integer
+
