@@ -1,7 +1,7 @@
 # analyst_projects
 
 <p>This repository is a collection of my projects of data analysis.</p> 
-<p>The credit_card directory contains SQL code for the analyzes of credit card financial data such as </p> 
+<p>The credit_card directory contains SQL code for the analysis of credit card financial data such as </p> 
 <ul>
   <li> Basic functions - Sorting and Cleansing </li>
   <li> Grouping Data by Year and Quarter </li>
